@@ -1,0 +1,402 @@
+2017-01
+2017-01-05;Katharina Rudisch;532, 633;CMTS;ok
+2017-01-09;Katharina Rudisch;532, 633;CMTS;ok
+2017-01-10;yuanyuan;532,633;gold nanoparticles;ok
+2017-01-11;yuanyuan;633;gold nanoparticles;ok
+2017-01-12;Alexandra;532;CZTS;ok
+2017-01-13;Patrik;523;MoS2;ok
+2017-01-13;Alexandra;532;CZTS;all ok
+2017-01-13;Jes Larsen;532;CIGS;OK
+2017-01-16;Michael Nordlund;532;Graphene;ok
+2017-01-17;Andreas;532;Carbon;ok
+2017-01-18;andoria;532;carbon;ok
+2017-01-18;ilknur;532;polymer;OK
+2017-01-19;Jan;532;CIGSe;Had to restart PC (no video)
+2017-01-19;Jes Larsen;532;CIGSS;OK
+2017-01-19;yuanyuan;532;SI GLOD;OK
+2017-01-20;Jes Larsen;532;CIGSSe;OK
+2017-01-20;yuanyuan;532;gold nanoparticles;ok
+2017-01-23;Andreas;633;carbon;ok
+2017-01-23;Jes Larsen;533;CIGS;OK
+2017-01-25;Katharina Rudisch;532, 633;CMTS;ok
+2017-01-26;Mario;532, 633;PE separ.;OK
+2017-01-27;Alexandra;532;CZTS;ok
+2017-01-30;Michael;532;TiO2;Ok
+2017-01-30;Michael Nordlund;532;Graphene;ok
+2017-01-31;Patrik Ahlberg;523;MoS2;ok
+2017-01-31;Mario;532;lmno;ok
+2016-12
+2016-12-02;Jes Larsen;532, 785;CIGS;OK
+2016-12-02;Habtom;532;carbon;OK
+2016-12-06;Pedro;532;Cu;ok
+2016-12-06;Andreas;532;carbon;OK
+2016-12-06;Mario;532;NMS;OK
+2016-12-07;Pedro;532;Cu;ok
+2016-12-07;Katharina Rudisch;532, 633, 785;CMTS;785nm laser does not work, no peak detected with quick calibration, no laser spot seen through camera either. 532nm and 633nm had relatively large offset during calibration (30 and 11 cm^-1)
+2016-12-08;Patrik;532;MoS2;OK
+2016-12-09;Katharina Rudisch;325;CMTS;ok
+2016-12-09;ilknur;532;pdots;ok
+2016-12-12;Jes Larsen;532;CZTS;OK
+2016-12-12;jiezhao;532;graphene;ok
+2016-12-13;Anti;-;NMS;just microscope used
+2016-12-13;andoria;532;C;ok
+2016-12-13;sarmad;532;ZrC;Ok
+2016-12-15;Katharina Rudisch;325, 532;CMTS;ok
+2016-12-16;jiezhao;532;silver;ok
+2016-12-19;andoria;532;C;ok
+2016-12-19;Andreas;325nm;C;ok
+2016-12-19;Katharina Rudisch;325nm;CMTS;ok
+2016-12-20;Patrik Ahlberg;523;MoS2;ok
+2016-12-21;Alexandra;532;MSS;all ok. finished at 9.50
+2016-12-23;Fang Mao;532;AgGO;OK
+2016-12-28;xingxing xu;532;Carbon;ok
+2016-11
+2016-11-01;Jes Larsen;532,785;CZTS;OK
+2016-11-01;Therese;532;coated Li;ok
+2016-11-03;Hu Li;325;graphene;ok 
+2016-11-03;asim;532;InO;ok
+2016-11-04;Jes Larsen;532 785;CZTS;Tendency that the stage slowly creeped out of focus
+2016-11-04;Habtom;532nm;carbon;OK. But, I didn\'t manage to analyse my samples as I wasted my time setting up the parameters... the detector, gratings...were not in the right configurations.
+2016-11-07;Katharina Rudisch;532nm;Carbon;ok
+2016-11-07;andoria;532;si;ok
+2016-11-08;asim;532nm;Carbon;ok
+2016-11-08;andoria;532 nm;Carbon;ok
+2016-11-09;Jes Larsen;532;CIGS;OK
+2016-11-09;Andreas;532;Carbon-InO;Focus distortion possibly due to stage lowering down itself.
+2016-11-09;Mario;532;FeIII;Ok
+2016-11-10;ilknur;532 eclipse;PErovskite;OK
+2016-11-11;andoria;532;C;OK
+2016-11-11;Katharina Rudisch;532, 633, 325;CMTS;ok
+2016-11-14;Andreas;532;Carbon;Still some focus distortion.
+2016-11-14;jiezhao;532;graphene;ok
+2016-11-15;jiezhao;532;graphene;focus distortion
+2016-11-15;Hakan;532;None;Adjusted the table height. Focus distortion fixed
+2016-11-16;yanyan;532;si;ok
+2016-11-16;jonathan scragg;532, 633, 785;MSS;ok 
+2016-11-16;Jes Larsen;532,785;CIGS;OK
+2016-11-17;jonathan scragg;532, 633;MSS;ok
+2016-11-21;Andreas;532nm;Carbon;ok
+2016-11-21;FredrikJ;532 nm;MoS2;ok
+2016-11-22;Andreas;325nm;Carbon;ok
+2016-11-22;Katharina Rudisch;325;CMTS;ok
+2016-11-22;Jes Larsen;532, 785;CIGS;OK
+2016-11-23;andoria;532;Carbon;Ok
+2016-11-23;Debashree;532;a-si;ok
+2016-11-24;Zhibin;532;a-Si;ok
+2016-11-28;Andreas;325nm;Carbon;OK
+2016-11-28;Jes Larsen;532. 325;CIGS;UV laser did not ignite in the first attempt, but did turn on second time it was switched on.
+2016-11-29;Therese;532;PEGMA-BrS;ok
+2016-11-29;andoria;532;carbon;ok
+2016-11-30;ilknur;532-785;pdots;ok
+2016-10
+2016-10-03;Steven;532;Li2ADC;ok
+2016-10-05;Yi Ren;532;CZTS;OK 
+2016-10-05;Mario;532 nm;MnOx-CTs;OK
+2016-10-06;Debashree;532 nm;a-Si;ok
+2016-10-06;Mario;532 nm;MnOX-CNTs;OK 
+2016-10-07;Yi Ren;532;SnS;OK 
+2016-10-07;Hu Li;532;TBT;OK
+2016-10-07;Debashree;532;a-Si;ok.
+2016-10-11;Katharina Rudisch;785;CZTS;Ok
+2016-10-12;ilknur;532;CH3NH3PbI3;OK
+2016-10-14;Therese;532;coated Li;ok
+2016-10-15;Debashree;532;a-Si;ok.
+2016-10-17;Yi Ren;532;TiN+SnS;OK
+2016-10-17;Yi Ren;532+785;CZTS;ok
+2016-10-18;Patrik Ahlberg;532;MoS2;Performed interlock test
+2016-10-18;Jes Larsen;532, 785;CIGS;OK
+2016-10-18;Mario;532 nm;nano-FeOx;OK
+2016-10-19;Patrik;523;MoS2;OK
+2016-10-19;Debashree;532;a-Si;ok
+2016-10-20;Debashree;532;a-Si;ok
+2016-10-20;Mario;532 nm;C-NMS;OK
+2016-10-21;Hu Li;532;g;ok
+2016-10-21;Yi Ren;532+785;CZTS;OK
+2016-10-22;Debashree;532;a-si;ok
+2016-10-23;Debashree;532;a-si;ok
+2016-10-25;Yi Ren;532;CZTS;OK 
+2016-10-27;Debashree;532 nm;a-si;ok
+2016-10-28;Debashree;532 nm;a-si;ok
+2016-10-31;Katharina Rudisch;532nm, 785nm;CMTS;OK
+2016-09
+2016-09-01;Alexandra;-;-;data processing
+2016-09-02;Patrik;532;graphene;OK
+2016-09-02;Debashree;532;a-Si;Had to restart the PC to be able to stat the Wire4.2 software.
+2016-09-05;Alexandra;-;-;data correction
+2016-09-05;jiezhao;532;graphene;ok
+2016-09-06;yuanyuan;532 nm;mgco3;ok
+2016-09-06;Jes Larsen;532.785;CZTS;OK
+2016-09-07;Patrik;532;graphene;ok 
+2016-09-07;Hu LI;532;graphene;fine 
+2016-09-07;Jes Larsen;532,785;CZTS;OK
+2016-09-08;jiezhao;532;graphene;ok
+2016-09-08;PedroB;532;GO;ok
+2016-09-12;Malkolm;532;graphene;ok
+2016-09-12;Jes Larsen;532, 875;CZTS;OK
+2016-09-14;Debashree;532 nm;a-Si;ok
+2016-09-15;Malkolm;532,633,785;graphene;ok
+2016-09-16;ilknur;532;Si;ok
+2016-09-20;Yi Ren;532;CZTS;ok
+2016-09-20;Debashree;532;a-Si;ok.
+2016-09-21;Jes Larsen;532, 785;CZTS, SnS;OK
+2016-09-21;Patrik;532;ws2;ok
+2016-09-22;Yi Ren;325, 532;CZTS;OK
+2016-09-22;Therese;532;Si;ok
+2016-09-22;Pedro;532;FeO;ok
+2016-09-23;Yi Ren;325;CZTS;ok
+2016-09-26;Debashree;325;a-Si;ok. Katharina helped to change optics
+2016-09-27;Jes Larsen;532, 785;CZTS;OK
+2016-09-28;Steven;532, 633;Li2ADC;ok
+2016-09-28;jiezhao;532;graphene;ok
+2016-09-29;Steven;532,633;Li2ADC;ok
+2016-09-29;Jes Larsen;532, 785;CZTS;OK
+2016-09-30;Therese;532;coated Li;ok
+2016-09-30;Debashree;523;si;Learn using the Linkham stage for temperature dependent measurement.
+2016-08
+2016-08-02;Jes Larsen;633,785,532;CZTSSe;OK
+2016-08-02;Mario;532;MnOx;OK
+2016-08-05;Patrik;532;graphene;OK
+2016-08-09;Jes Larsen;532;MoSe;OK
+2016-08-09;Malkolm;532;graphene;Wire lost contact with laser. Cant get it to reconnect. Last time this happened it worked after letting system rest
+2016-08-10;Malkolm;532;graphene;ok
+2016-08-11;Jes Larsen;532,785;CZTS PL;OK
+2016-08-11;Habtom;532 nm;Nb2O5;OK
+2016-08-12;Malkolm;532;graphene;OK
+2016-08-12;Jes Larsen;532,785;CZTS;OK
+2016-08-15;Yi Ren;532nm;CZTS;OK
+2016-08-16;Yi Ren;532;CZTS;OK 
+2016-08-16;Jes Larsen;532;SnS2;OK
+2016-08-17;Jes Larsen;532, 785;CZTS, SnS2;OK
+2016-08-19;Jes Larsen;532,785;CZTS, SnS2;OK
+2016-08-19;Nils Ross;532;CZTSSe;OK, needed to restart computer for camera to show
+2016-08-22;Jes Larsen;532,785;CZTS SnS2;OK
+2016-08-23;Yi Ren;325nm;SnS2+TiN;OK
+2016-08-25;Alexandra;-;-;just was using the software
+2016-08-29;Yi Ren;325nm;SnS2 MAPPING;OK, Jon helped to switch the setup
+2016-08-29;Alexandra;-;-;postprocessing only
+2016-08-29;Hu Li;532;graphene;OK
+2016-08-30;Malkolm;532;graphene;OK
+2016-08-30;Patrik;532;graphene;OK
+2016-08-31;Yi Ren;532nm;SnS2;Overnight mapping, but the computer was restarted. Maybe due to the auto update of windows system
+2016-08-31;Yi Ren;532nm;No sample;There is no response of the laser. The software is frozen once aborting the measurement. 
+2016-08-31;Yi Ren;532nm;Si;Restart the entire Raman system and computer, the measurement is back to normal
+2016-07
+2016-06-30;Alexandra;785nm, 532nm;CZTS;all ok
+2016-07-01;Alexandra;UV, 532;CZTS;UV was ok, PL map is ok
+2016-07-02;Alexandra;532 nm;CZTS;PL map only. all ok
+2016-07-03;Alexandra;785, 532;CZTS;Raman by 785 and 585 + PL map all ok
+2016-07-03;Alexandra;532;CZTS;finished the mapping at 18.46 all ok
+2016-07-04;Yi Ren;785;CZTS;Software is dead twice during the measurement, force to shut down using task manager, and restart it works ok.
+2016-07-04;Debashree;532;a-Si;Software and laser could  not be started up initially. Had to restart the PC. Worked after that. Laser had stopped working in the middle of a measurement. Worked after it was restarted again.
+2016-07-04;Habtom;532 nm;NbO2, MoO2;All OK!
+2016-07-05;Yi Ren;325nm;CZTS;OK
+2016-07-05;Alexandra;325;CZTS;all ok
+2016-07-05;Habtom;532 nm;NbO2, MoO2 and C;all OK!
+2016-07-07;Alexandra;785, 532;CZTS;all ok
+2016-07-07;Pedro;532;Fe3O4;ok
+2016-07-12;Katharina Rudisch;532;MnS;ok
+2016-07-19;Alexandra;785, 532;CZTS;all ok
+2016-07-20;Alexandra;785, 532;CZTS;Ok
+2016-07-21;Alexandra;785, 532;CZTS;ALL OK
+2016-06
+2016-06-02;jonathan scragg;532, 785, 325;CZTS;switched to UV and back, no calibration issues. laser focus went out (not same as image focus) after switching back from UV, but then corrected itself.
+2016-06-03;Jakob Thyr;785nm, 532nm;Si;Used 785nm RPL + InGaAs detector. The Edge filer was realigned. Signal restored to the level at initial installation. One software freeze when using system configuration.
+2016-06-04;Hu Li;532NM;GRAPHENE;FINE
+2016-06-07;jonathan scragg;532, 785, 533;CZTS;no issues
+2016-06-12;Hu Li;532;Graphene;fine
+2016-06-13;Katharina Rudisch;532, 785;CMTS;ok
+2016-06-13;Fengi Raman service;785;non;WIRE test, computer test
+2016-06-15;jonathan scragg;785,325,532;CZTS;Large area map Raman and PL, overnight. OK 
+2016-06-16;Debashree;532;a-Si;ok
+2016-06-16;Katharina Rudisch;532,633,785,325;CIGS;ok
+2016-06-17;Nils Ross;532;CZTS;ok
+2016-06-20;Nils Ross;532;CZTS;ok
+2016-06-20;Patrik;532;Graphene;ok
+2016-06-21;jiezhao;532;graphene;ok
+2016-06-22;Nils Ross;532;CZTS;Camera settings changed?
+2016-06-23;jiezhao;532;graphene;OK
+2016-06-23;Yi Ren;532, 633;CZTS;OK
+2016-06-24;Debashree;532;a-Si;ok
+2016-06-27;Nils Ross;532;CZTS;ok
+2016-06-27;Fang Mao;532;AgAl;OK
+2016-06-27;Pedro Berastegui;532, 633;Fe2O3;ok
+2016-06-28;Nils Ross;532,785;CZTSSe;ok
+2016-06-28;Patrik;532;MOS2;ok
+2016-06-28;Debashree;532;a-Si;ok
+2016-06-29;Nils Ross;532, 785;CZTSSe;Door interlock not catching every close. Must be \'pushed shut\' while already closed.
+2016-06-29;xingxing xu;532;AlOx;ok
+2016-06-30;Yi Ren;532,785;CZTS;OK 
+2016-06-30;Yi Ren;532;CZTS;ok
+2016-05
+2016-05-02;Mario;532 nm;Fe3O4, Fe2O3 tubes;OK
+2016-05-03;Malkolm;532 nm;Graphene;Software is fast again
+2016-05-03;yuanyuan;532 nm;Graphene;ok
+2016-05-04;Jon scragg & Yi Ren ;325;ZnS;after switching to 325nm RO filter and UV lenses, the spectrum was shifted by 200cm-1. An offset was applied to compensate 
+2016-05-04;CeciliA;785;Upsalite;ok
+2016-05-04;yuanyuan;532;Graphene;OK
+2016-05-05;Hu LI;532;GrPHENE;ok
+2016-05-06;Tomas E;532;Graphene, PbI2;OK
+2016-05-09;Fengi;0;0;CHECK UP ONLY
+2016-05-10;Katharina Rudisch;325;CMTS;ok
+2016-05-11;yuanyuan;532;Graphene;ok
+2016-05-11;Debashree;532;amorphous Silicon;ok
+2016-05-12;Hu Li;532;Au;OK
+2016-05-12;Hu Li;532;Graphene;fine
+2016-05-13;Hu Li;532;graphene;fine
+2016-05-16;Nathan;532;SU8-C;OK
+2016-05-16;Mario;532 nm;TiO2;OK
+2016-05-17;Patrik;532 nm;MOS2;Ok
+2016-05-17;Jes Larsen;325.633.785;CZTS;OK
+2016-05-18;Nathan;532;SU8-C;OK
+2016-05-18;CeciliA;785;Upsalite;OK!
+2016-05-18;Patrik;532;MOS2;ok
+2016-05-19;Debashree;532;a-Si;ok
+2016-05-19;Malkolm;532;Graphene;Laser didn\'t reach the sample. Reboot of computer and laser fixed the issue.
+2016-05-19;Michael;532;Polypyrrole;ok
+2016-05-23;Jes Larsen;532,633,785;CZTS;OK!
+2016-05-23;Hu Li;532;graphene;good
+2016-05-24;Debashree;532;a-Si;ok
+2016-05-24;Malkolm;532;Graphene;Signal to weak to calibrate, restart fixed the issue
+2016-05-24;Malkolm;532;Graphene;Wire froze after 6 maps, temp-folder empty
+2016-05-26;Patrik;532, 633;Stal;oK
+2016-05-27;Raman service;785,532;Si;785 RPL is not aligned, fix next visit. 532 OK
+2016-05-31;Mandy;532 nm;graphene oxide;OK
+2016-05-31;Katharina Rudisch;785nm, 532nm;CZTS;ok
+2016-05-31;Patrik;532 nm;Graphene;ok
+2016-05-31;Hu Li;532;Graphene;GOOD
+2016-04
+2016-04-01;Malkolm;532;Graphene;OK
+2016-04-01;yuanyuan;532;Graphene;OK
+2016-04-05;yi ren;532;CZTS;OK
+2016-04-05;Jes Larsen;532,785;CZTS;OK
+2016-04-05;Youwei;532;MOS2;OK
+2016-04-06;Jes Larsen;633,785 (PL);CZTS;Andor camera has a communcation problem - unable to connect
+2016-04-07;Youwei;532;MOS2;OK
+2016-04-07;Debashree;532;amorphous Silicon;ok
+2016-04-08;yuanyuan;532;graphene;cannot move up the sample stage
+2016-04-11;Jes Larsen;785,633;CZTS;OK, camera not working initially but started working after restarting the computer
+2016-04-11;jonathan scragg;785, 432;CZTS;no problems
+2016-04-11;Malkolm;532;Graphene;OK
+2016-04-11;Youwei;532;MOS2;OK
+2016-04-12;Yi Ren;532;SnS2+TiN;OK, camera not working initially, but ok after restarting the computer
+2016-04-12;Hana Barankova;532;carbon;OK
+2016-04-13;Nils Ross;532;CZTSSe;No problems
+2016-04-13;Fang Mao;532;Ag alloys;ok
+2016-04-13;Jes Larsen;532,785;CZTS;OK, camera not working 
+2016-04-13;Katharina Rudisch;785, 532;CZTS;Camera worked after PC restarted
+2016-04-13;Youwei;532;MOS2;ok
+2016-04-14;Jes Larsen;532;CZTS;OK
+2016-04-14;Jonathan Scragg;532;CZTS;OK
+2016-04-15;Debashree;532;a-Si;ok
+2016-04-18;Pedro;532;GO;OK
+2016-04-18;Mandy;532;GO;Camera doesn\'t work
+2016-04-19;Yi Ren;532;CZTS;OK
+2016-04-20;Jakob Thyr;785;Si;Camera settings changed to remove stripes. Software uninstalled and reinstalled. Communication problem with Andor camera still not solved.
+2016-04-20;Youwei;532;MOS2;OK
+2016-04-20;Katharina Rudisch;532;MTS, CMS;Camera worked after PC restarted 
+2016-04-22;Yi Ren;532nm;CZTS;OK
+2016-04-22;Katharina Rudisch;325, 785;CMTS;The calibration of 325_RO is very off
+2016-04-22;Yi Ren;785;CZTS;OK
+2016-04-23;Malkolm;532;Graphene;Wire crashes when given more than 10 tasks in queue
+2016-04-24;Malkolm;532;Graphene;532 Laser stopped working after a few hours. 633 still works fine
+2016-04-25;Yi Ren;785;Raman CZTS;OK
+2016-04-25;Katharina Rudisch;633;CMTS;ok
+2016-04-26;Katharina Rudisch;532;CMTS;ok
+2016-04-28;yuanyuan;532;Graphene;OK
+2016-04-28;Yi Ren;532,785;SnS;ok
+2016-04-29;Fengi;785;SI;SERVICE REMOTE FOR INGAAS DETECTOR
+2016-04-29;Debashree;532;amorphous Silicon;ok
+2016-03
+2016-03-01;Yuanyuan;633;Graphene;Zap in cannot be used. The program is not stable
+2016-03-02;Yuanyuan;633;Graphene;Ok
+2016-03-03;Jocinta;532;Lab samples;Ok
+2016-03-03;Tomas;532,785,532;MgCO3;Ok
+2016-03-03;Yuanyuan;633;Graphene;Ok
+2016-03-04;Michael;532;Graphene;Ok
+2016-03-07;Nils;532;CZTS;Ok
+2016-03-08;Michael;532;Graphene oxid;Ok
+2016-03-08;Nathan;532,633;mmm+Graphene-S;Ok
+2016-03-08;Michael;532;Graphene;Ok
+2016-03-08;Zhen;532,325;ZnO;325 do not work. Calibration doesn't work
+2016-03-09;Zhen;532;NiO;Same problem
+2016-03-09;Ray;532;CZTS;Power problem
+2016-03-09;Jie;532;CZTS;Four problems, most signal far from focus
+2016-03-10;Jakob Thyr;532,785;-;Major problem with computer. Hopefully fixed
+2016-03-10;Yuanyuan;532;Graphene;Ok
+2016-03-14;Katharina;785;CZTS;Camera did not work. Computer restart
+2016-03-15;Nils Ross;532;CZTS;Restart again
+2016-03-15;Yuanyuan;532;Graphene;Ok
+2016-03-16;Leili;532;Graphene;Ok
+2016-03-17;Yuanyuan;532;Graphene;Ok
+2016-03-18;Ray;532,785;Sns;Need restart PC once
+2016-03-19;Ray;532;Sns;Ok
+2016-03-22;yuaha674;532;Graphene;OK
+2016-03-23;Nils Ross;532;CZTS;CCD camera issue. Can see laser spot during calibration, but cannot see film (no light, but there is light through the objective)
+2016-03-23;Fang Mao;532;AgAl;CCD camera issue. cant
+2016-03-23;yuanyuan;532;graphene;OK
+2016-03-24;Nils Ross;532;CZTS;CCD camera issue remains. A matter of intensity/scaling? Laser spot is visible.
+2016-03-24;Nils Ross;532;CZTS;Same camera issue
+2016-03-29;Nils Ross;532;CZTS;OK, camera appears OK
+2016-03-30;Hu Li;532;graphene;cannot see the laser spot, but others work fine
+2016-03-29;Malkolm;532;Graphene;OK
+2016-03-30;Malkolm;532;Graphene;OK
+2016-03-30;Leili;532;Graphene;OK
+2016-03-30;Youwei;532;mos2;ok
+2016-03-31;Jakob Thyr;325nm, 532nm;Diamond, Si, Paper;325 and 532nm optimized. performance good, xyz stage slow in responce and sample review bar stopped working once. Diagnostics run, files will be analysed later. 
+2016-02
+2016-02-01;Mario;785;Li2O2/graphene;Ok
+2016-02-02;Jonathan;532;Sn2S3, SnS2;Ok
+2016-02-04;Tomas;532/633/785/532;Mn2O3;Ok
+2016-02-05;Jej;532,785;C7;Ok
+2016-02-05;Nils Ross;532;C2TS/Se;Ok
+2016-02-08;Nathan;532;Activated C;Ok
+2016-02-08;Jonathan;532/785;CZTS;Ok
+2016-02-08;Tomas;532;MAPbI2/PbI2;Ok
+2016-02-09;Rey;532;CZTS;Ok
+2016-02-09;Tomas;532;MAPbI3;Ok
+2016-02-09;Mario;532;PEDOT-LFSI;Ok
+2016-02-10;Mons;532;Si;Ok
+2016-02-10;Paulios;532;Mo-B-C;Ok
+2016-02-10;Mario;532,633,785;PEDOT-LFSI;Ok
+2016-02-11;Mandy;532;GO;Ok
+2016-02-11;Yuanyuan;532,633,785;Pyrene;Ok
+2016-02-12;Raman service;All;Service;Upgrading to Wire 4.2. Test of temperature stage
+2016-02-12;ZHA;633;TiO2;Ok
+2016-02-12;Paulius;532;MoBC;Ok
+2016-02-13;Habtom;532;NbOx;Ok
+2016-02-14;ZHA;633;TiO2;Ok
+2016-02-15;Jej;785,532;CZTS;Ok
+2016-02-15;ZHA;532;TiO2;Ok
+2016-02-15;Jonathan;785,532;CZTS;Ok
+2016-02-17;Lukas/Zhibin;532;Ge,Ni;Ok
+2016-02-17;Michael;532;Graphene;Ok
+2016-02-17;Shuji;532;CZTS;Camera connection failed but fixed by restart
+2016-02-17;Mandy;532;GO;Same problem
+2016-02-17;Zhen;532;NiO;Same problem
+2016-02-19;Malkolm;532;Graphene;Ok
+2016-02-22;Jonathan;785;CZTS;Ok
+2016-02-23;Mario;785;Li2O2;Ok
+2016-02-23;Paulius;532;MoBC;Ok
+2016-02-24;Malkolm;532,633;Graphene;Intensity low
+2016-02-24;Zhen;532;NiO;Ok
+2016-02-25;Mario;785;Li2O2-graphene;Ok
+2016-02-25;Malkom;532;Graphene;Calibration issues. Both intensity and position far off
+2016-02-26;Malkom;532;Graphene;Ok
+2016-02-26;Pedro;532;FeOxid;Ok
+2016-02-29;Jie;532;Graphene;Ok
+2016-01
+2016-01-13;Fredrik;532;GO;Ok
+2016-01-14;Fredrik;532;GO;Ok
+2016-01-14;Hu Li/Jonathan;325;CeO2:x;Ok
+2016-01-15;Jej;532,785;CZTS;Ok
+2016-01-16;Fredrik;532;GO;Ok
+2016-01-21;Mario;532,633,785;PEDOT/LPSF;Ok
+2016-01-25;Nathan;532;508/A;Ok
+2016-01-25;Ray;532;CZTS;Ok
+2016-01-26;Ray;785;CZTS;Ok
+2016-01-26;Xingxing;532;TiN;Ok
+2016-01-27;Nathan;532;ActivatedC TiN;Ok
+2016-01-28;Pedro;532;TiN/Fe2O3;Ok
+2016-01-28;Nathan;532;ActivatedC;Ok
+2016-01-29;Nathan;532;Mirso platrix;Ok
+2016-01-31;Mario;785;Grylone / Li2O2;Ok
